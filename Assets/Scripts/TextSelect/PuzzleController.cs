@@ -4,13 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
 
 public class PuzzleController : MonoBehaviour
 {
     public List<GameObject> puzzleRedLetters = new List<GameObject>();
     private string puzzleAttempt = "";
     public string puzzleAnswer = "";
-    private bool duplicateFound = false;
     public bool puzzleSolved = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -34,26 +34,19 @@ public class PuzzleController : MonoBehaviour
     {
         foreach (var x in puzzleRedLetters)
         {
-            if (puzzleAttempt.Contains(x.name))
-            {
-                duplicateFound = true;
-            }
-
             puzzleAttempt = puzzleAttempt + x.gameObject.name;
         }
 
-        if (duplicateFound == false && puzzleAttempt == puzzleAnswer)
+        if (puzzleAttempt == puzzleAnswer)
         {
             puzzleSolved = true;
             Debug.Log("Puzzle is solved");
             puzzleRedLetters.Clear();
             puzzleAttempt = "";
-            duplicateFound = false;
         }
         else
         {
             puzzleAttempt = "";
-            duplicateFound = false; 
         }
     }
 }

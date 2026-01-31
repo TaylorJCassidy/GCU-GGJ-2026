@@ -25,11 +25,11 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     // Update is called once per frame
     void Update()
     {
-        if (puzzleController.puzzleSolved)
-        {
-            gameObject.GetComponent<UnityEngine.UI.Button>().enabled = false;
-            gameObject.GetComponent<TextSelect>().enabled = false;
-        }
+        //if (puzzleController.puzzleSolved)
+        //{
+        //    gameObject.GetComponent<UnityEngine.UI.Button>().enabled = false;
+        //    gameObject.GetComponent<TextSelect>().enabled = false;
+        //}
     }
 
     public void OnPointerClick(PointerEventData eventData)
@@ -47,40 +47,50 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
 
     public void ChangeColour()
     {
-        if (counter == 0)
+        if (!tape) 
         {
-            //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.red; //tape sprite to red
-            transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.red; //text to red
-            //gameObject.GetComponent<Image>().color = Color.red; //button to red
+            if (counter == 0)
+            {
+                if (!puzzleController.puzzleSolved)
+                {
+                    //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.red; //tape sprite to red
+                    transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.red; //text to red
+                    //gameObject.GetComponent<Image>().color = Color.red; //button to red
 
-            GameObject redLetter = gameObject;
-            puzzleController.puzzleRedLetters.Add(redLetter);
+                    GameObject redLetter = gameObject;
+                    puzzleController.puzzleRedLetters.Add(redLetter);
 
-            counter++;
+                    counter++;
+                }
+                else
+                {
+                    transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.yellow;
+                    counter = 2;
+                }
+            }
+            else if (counter == 1)
+            {
+                //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.yellow; //tape sprite to yellow
+                transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.yellow; //text to yellow
+                //gameObject.GetComponent<Image>().color = Color.yellow; //button to yellow
+
+                GameObject yellowLetter = gameObject;
+                puzzleController.puzzleRedLetters.Remove(yellowLetter);
+
+                counter++;
+            }
+            else
+            {
+                //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.white; //back to default sprite
+                transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.black; //text to black
+                //gameObject.GetComponent<Image>().color = Color.white; //button to white
+
+                GameObject blankLetter = gameObject;
+                puzzleController.puzzleRedLetters.Remove(blankLetter);
+
+                counter = 0;
+            }
         }
-        else if (counter == 1)
-        {
-            //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.yellow; //tape sprite to yellow
-            transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.yellow; //text to yellow
-            //gameObject.GetComponent<Image>().color = Color.yellow; //button to yellow
-
-            GameObject yellowLetter = gameObject;
-            puzzleController.puzzleRedLetters.Remove(yellowLetter);
-
-            counter++;
-        }
-        else
-        {
-            //transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().color = Color.white; //back to default sprite
-            transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().color = Color.black; //text to black
-            //gameObject.GetComponent<Image>().color = Color.white; //button to white
-
-            GameObject blankLetter = gameObject;
-            puzzleController.puzzleRedLetters.Remove(blankLetter);
-
-            counter = 0;
-        }
-
     }
 
     public void Tape()
