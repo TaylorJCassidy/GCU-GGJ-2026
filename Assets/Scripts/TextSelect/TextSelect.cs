@@ -25,7 +25,11 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     // Update is called once per frame
     void Update()
     {
-
+        if (puzzleController.puzzleSolved)
+        {
+            gameObject.GetComponent<UnityEngine.UI.Button>().enabled = false;
+            gameObject.GetComponent<TextSelect>().enabled = false;
+        }
     }
 
     public void OnPointerClick(PointerEventData eventData)

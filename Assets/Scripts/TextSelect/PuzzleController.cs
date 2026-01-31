@@ -11,6 +11,7 @@ public class PuzzleController : MonoBehaviour
     private string puzzleAttempt = "";
     public string puzzleAnswer = "";
     private bool duplicateFound = false;
+    public bool puzzleSolved = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,7 +24,7 @@ public class PuzzleController : MonoBehaviour
     {
         puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
         puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.position.y).ToList();
-        if (Keyboard.current.digit1Key.wasPressedThisFrame)
+        if (puzzleRedLetters.Count > 5)
         {
             CheckAnswer();
         }
@@ -38,14 +39,14 @@ public class PuzzleController : MonoBehaviour
                 duplicateFound = true;
             }
 
-            
-
             puzzleAttempt = puzzleAttempt + x.gameObject.name;
         }
 
         if (duplicateFound == false && puzzleAttempt == puzzleAnswer)
         {
-            Debug.Log("Puzzle Solved");
+            puzzleSolved = true;
+            Debug.Log("Puzzle is solved");
+            puzzleRedLetters.Clear();
             puzzleAttempt = "";
             duplicateFound = false;
         }
