@@ -4,7 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     public static PlayerController current;
 
-    public GameObject currentPainting;
+    public Painting currentPainting;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -12,13 +12,7 @@ public class PlayerController : MonoBehaviour
         current = this;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public void SetCurrentPainting(GameObject painting) {
+    public void SetCurrentPainting(Painting painting) {
         currentPainting = painting;
         if (currentPainting != null) {
             currentPainting.transform.parent = transform;
