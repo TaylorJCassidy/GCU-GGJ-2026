@@ -21,6 +21,8 @@ public class PuzzleController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
+        puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.position.y).ToList();
         if (Keyboard.current.digit1Key.wasPressedThisFrame)
         {
             CheckAnswer();
@@ -36,7 +38,7 @@ public class PuzzleController : MonoBehaviour
                 duplicateFound = true;
             }
 
-            puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
+            
 
             puzzleAttempt = puzzleAttempt + x.gameObject.name;
         }
