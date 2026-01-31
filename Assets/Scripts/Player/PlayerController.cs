@@ -4,9 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     public static PlayerController current;
 
-    private Painting currentPainting = null;
-
-    public GameObject wall;
+    public GameObject currentPainting;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,14 +18,12 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    public void SetCurrentPainting(Painting painting)
-    {
-        if (painting != null) {
-            currentPainting.transform.position = painting.transform.position;
-            currentPainting.transform.SetParent(painting.transform);
-        }
+    public void SetCurrentPainting(GameObject painting) {
         currentPainting = painting;
-        currentPainting.transform.SetParent(transform);
-        
+        if (currentPainting != null) {
+            currentPainting.transform.parent = transform;
+            currentPainting.transform.localPosition = new Vector3(0.5f, -0.35f, 1f);
+            currentPainting.transform.localRotation = Quaternion.Euler(-90f, 15f, 15f);
+        }
     }
 }
