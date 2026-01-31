@@ -6,7 +6,12 @@ public class CameraController : MonoBehaviour
     public float rotationSpeed = 100f;
     float currentPitch = 0f;
 
+    bool onPlayer = true;
+
+    public GameObject currentPlaque;
     private Camera camera;
+
+    public static CameraController current;
 
     void Start() {
         Cursor.lockState = CursorLockMode.Locked;
@@ -24,22 +29,45 @@ public class CameraController : MonoBehaviour
         camera.transform.localRotation = Quaternion.Euler(currentPitch, 0f, 0f);
         transform.Rotate(new Vector3(0, yaw, 0));
 
-        if (Input.GetKey(KeyCode.W)) 
-        { 
-            transform.localPosition += speed * Time.deltaTime * transform.forward;
-        }
-        else if (Input.GetKey(KeyCode.S))
+        if (onPlayer == true)
         {
-            transform.localPosition -=  speed * Time.deltaTime * transform.forward;
-        }
+            if (Input.GetKey(KeyCode.W)) 
+            { 
+                transform.localPosition += speed * Time.deltaTime * transform.forward;
+            }
+            else if (Input.GetKey(KeyCode.S))
+            {
+                transform.localPosition -=  speed * Time.deltaTime * transform.forward;
+            }
 
-        if (Input.GetKey(KeyCode.A)) 
-        { 
-            transform.localPosition -= speed * Time.deltaTime * transform.right;
-        } 
-        else if (Input.GetKey(KeyCode.D)) 
-        { 
-            transform.localPosition += speed * Time.deltaTime * transform.right;
+            if (Input.GetKey(KeyCode.A)) 
+            { 
+                transform.localPosition -= speed * Time.deltaTime * transform.right;
+            } 
+            else if (Input.GetKey(KeyCode.D)) 
+            { 
+                transform.localPosition += speed * Time.deltaTime * transform.right;
+            }
+        else if (onPlayer == false)
+        {
+           if (Input.GetKey(KeyCode.E))
+           {
+                onPlayer = true;
+            }
+
+        }
+    }
+    }
+    public void MoveToPlaque(GameObject plaque) {
+        currentPlaque = plaque;
+        if (currentPlaque != null)
+        {
+            //pan to object here//
+        }
+        else if (currentPlaque == null)
+        {
+            //pan back to player
         }
     }
 }
+
