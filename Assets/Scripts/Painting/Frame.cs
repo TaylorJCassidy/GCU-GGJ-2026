@@ -14,9 +14,10 @@ public class Frame : MonoBehaviour
 
     void OnMouseOver()
     {
-        if (Input.GetKeyDown(KeyCode.E) && !currentPainting.locked) 
+        if (Input.GetKeyDown(KeyCode.E)) 
         {
             if (currentPainting != null) {
+                if (currentPainting.locked) return;
                 if (PlayerController.current.currentPainting == null) {
                     PlayerController.current.SetCurrentPainting(currentPainting);
                     SetCurrentPainting(null);

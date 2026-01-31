@@ -4,6 +4,7 @@ public class Door : MonoBehaviour
 {
     bool opening = false;
     float time = 0f;
+    public float curveMultiplier = 1f;
 
     public AnimationCurve animationCurve;
 
@@ -12,9 +13,9 @@ public class Door : MonoBehaviour
     {
         if (opening == true) {
             time += Time.deltaTime;
-            float rotationSpeed = animationCurve.Evaluate(time);
+            float rotationSpeed = animationCurve.Evaluate(time) * curveMultiplier;
             transform.Rotate(new Vector3(0f, -rotationSpeed, 0f));
-            if (time > 2.1f) opening = false;
+            if (time > 4f) opening = false;
         }
     }
 
