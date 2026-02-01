@@ -57,6 +57,7 @@ public class GameController : MonoBehaviour
         {
             //unlock painting four
             Debug.Log("Puzzle 4 is solved");
+            EasterEgg.easterEgg.JumpScare();
             PuzzleSolved();
             puzzle4Solved = true; //prevents this if constantly firing
         }
