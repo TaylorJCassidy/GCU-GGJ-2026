@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
@@ -16,10 +17,18 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     private int counter = 0;
     private bool tape = false;
 
+    private AudioSource audioSource;
+    [SerializeField] private AudioClip buttonSelect;
+    private int buttonCounter;
+    private double buttonPitch;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         puzzleController = transform.parent.GetChild(0).GetComponent<PuzzleController>();
+        audioSource = GetComponent<AudioSource>();
+        buttonPitch = 0.7f * UnityEngine.Random.Range(0.9f, 1.1f);
+        audioSource.pitch = (float)buttonPitch;
     }
 
     // Update is called once per frame
@@ -42,13 +51,22 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
         {
             Tape();
         }
-
     }
 
     public void ChangeColour()
     {
         if (!tape) 
         {
+            if (buttonCounter >= 3)
+            {
+                audioSource.pitch = (float)buttonPitch;
+                buttonCounter = 0;
+            }
+            buttonCounter++;
+            audioSource.clip = buttonSelect;
+            audioSource.pitch *= (float)Math.Pow(1.059463f, buttonCounter);
+            audioSource.volume = 0.15f;
+            audioSource.Play();
             if (counter == 0)
             {
                 if (!puzzleController.puzzleSolved)

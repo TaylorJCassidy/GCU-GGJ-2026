@@ -22,11 +22,14 @@ public class PuzzleController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
-        puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.position.y).ToList();
-        if (puzzleRedLetters.Count > 5)
+        if (!puzzleSolved)
         {
-            CheckAnswer();
+            puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
+            puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.position.y).ToList();
+            if (puzzleRedLetters.Count > 5)
+            {
+                CheckAnswer();
+            }
         }
     }
 
@@ -40,7 +43,6 @@ public class PuzzleController : MonoBehaviour
         if (puzzleAttempt == puzzleAnswer)
         {
             puzzleSolved = true;
-            Debug.Log("Puzzle is solved");
             puzzleRedLetters.Clear();
             puzzleAttempt = "";
         }
