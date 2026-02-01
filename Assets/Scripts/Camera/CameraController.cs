@@ -59,19 +59,6 @@ public class CameraController : MonoBehaviour
             { 
                 transform.localPosition += speed * Time.deltaTime * transform.right;
             }
-
-            if (Input.GetKey(KeyCode.E) && letter != null)
-            {
-                cameraLocked = true;
-                lookingAtLetter = true;
-                //view letter
-            }
-            if (Input.GetKey(KeyCode.E) && lookingAtLetter = true)
-            {
-                cameraLocked = true;
-                lookingAtLetter = false;
-                //letter disappears
-            }
         }
 
     }

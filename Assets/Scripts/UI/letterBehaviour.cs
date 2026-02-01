@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class letterBehaviour : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    bool focussed = false;
 
     public GameObject letter;
 
@@ -19,11 +20,17 @@ public class letterBehaviour : MonoBehaviour
     
     void OnMouseOver()
     {
-        CameraController.current.letter = this;
+        if (Input.GetKeyDown(KeyCode.E) && !focussed)
+        {
+            focussed = true;
+            CameraController.current.cameraLocked = true;
+            letter.SetActive(true);
+        }
     }
 
-    void onMouseExit()
-    {
-        CameraController.current.letter = this;
+    public void Unfocus() {
+        focussed = false;
+        CameraController.current.cameraLocked = false;
+        letter.SetActive(false);
     }
 }
