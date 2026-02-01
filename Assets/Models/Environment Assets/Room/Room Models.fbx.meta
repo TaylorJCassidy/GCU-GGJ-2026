@@ -3,7 +3,22 @@ guid: 36fca73f1b266944abfc22eeff47edff
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Celling
+    second: {fileID: 2100000, guid: 1057851658ae77441ae6f8261a0c9e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CellingSkirting
+    second: {fileID: 2100000, guid: a66c1bae6a759b445a652e0921907dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall1
+    second: {fileID: 2100000, guid: e317ec7b21bfbf94d9b483e5dc0c36f8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
