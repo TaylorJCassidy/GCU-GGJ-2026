@@ -7,8 +7,10 @@ public class CameraController : MonoBehaviour
     public float speed = 100f;
     public float rotationSpeed = 100f;
     float currentPitch = 0f;
+    private bool lookingAtLetter;
     
     private bool locked;
+    public letterBehaviour letter;
     public bool cameraLocked {
         set {
             locked = value;
@@ -21,6 +23,7 @@ public class CameraController : MonoBehaviour
     private Camera camera;
 
     void Start() {
+        lookingAtLetter = false;
         current = this;
         Cursor.lockState = CursorLockMode.Locked;
         camera = Camera.main;
@@ -29,6 +32,7 @@ public class CameraController : MonoBehaviour
     void Update() 
     { 
         if (!cameraLocked) {
+            lookingAtLetter = false;
             float pitch = Input.GetAxis("Mouse Y") * rotationSpeed * Time.deltaTime;
             float yaw = Input.GetAxis("Mouse X") * rotationSpeed * Time.deltaTime;
 
@@ -55,6 +59,14 @@ public class CameraController : MonoBehaviour
             { 
                 transform.localPosition += speed * Time.deltaTime * transform.right;
             }
+
+            if (Input.GetKey(KeyCode.E) && letter != null)
+            {
+                cameraLocked = true;
+                //display image
+                if (Input)
+            }
         }
+
     }
 }
