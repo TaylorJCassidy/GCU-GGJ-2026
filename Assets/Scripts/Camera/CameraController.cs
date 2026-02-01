@@ -63,8 +63,14 @@ public class CameraController : MonoBehaviour
             if (Input.GetKey(KeyCode.E) && letter != null)
             {
                 cameraLocked = true;
-                //display image
-                if (Input)
+                lookingAtLetter = true;
+                //view letter
+            }
+            if (Input.GetKey(KeyCode.E) && lookingAtLetter = true)
+            {
+                cameraLocked = true;
+                lookingAtLetter = false;
+                //letter disappears
             }
         }
 
