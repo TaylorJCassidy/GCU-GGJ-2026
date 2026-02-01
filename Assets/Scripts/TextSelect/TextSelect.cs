@@ -29,7 +29,7 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     {
         puzzleController = transform.parent.GetChild(0).GetComponent<PuzzleController>();
         audioSource = GetComponent<AudioSource>();
-        audioSource.volume = 0.15f;
+        audioSource.volume = 0.25f;
         buttonPitch = 0.7f * UnityEngine.Random.Range(0.9f, 1.1f);
         audioSource.pitch = (float)buttonPitch;
     }
@@ -117,6 +117,7 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     {
         //right click adds/removes tape
         transform.GetChild(1).gameObject.SetActive(!tape);
+        transform.GetChild(1).gameObject.transform.Rotate(0, 0, UnityEngine.Random.Range(-14, 14));
         if (tape == false)
         {
             audioSource.clip = tapeOn;

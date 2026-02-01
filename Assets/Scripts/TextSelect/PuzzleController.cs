@@ -24,8 +24,8 @@ public class PuzzleController : MonoBehaviour
     {
         if (!puzzleSolved)
         {
-            puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.position.x).ToList();
-            puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.position.y).ToList();
+            puzzleRedLetters = puzzleRedLetters.OrderBy(x => x.transform.localPosition.x).ToList();
+            puzzleRedLetters = puzzleRedLetters.OrderByDescending(y => y.transform.localPosition.y).ToList();
             if (puzzleRedLetters.Count > 5)
             {
                 CheckAnswer();

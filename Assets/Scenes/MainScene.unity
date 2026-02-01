@@ -12190,6 +12190,7 @@ GameObject:
   - component: {fileID: 166980279}
   - component: {fileID: 166980278}
   - component: {fileID: 166980277}
+  - component: {fileID: 166980280}
   m_Layer: 0
   m_Name: Plaque
   m_TagString: Untagged
@@ -12291,6 +12292,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 166980275}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &166980280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166980275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeba15c54c90ba34680dc69c17fa95f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plaque
 --- !u!1 &170631651
 GameObject:
   m_ObjectHideFlags: 0
@@ -76516,6 +76529,7 @@ GameObject:
   - component: {fileID: 1124366196}
   - component: {fileID: 1124366195}
   - component: {fileID: 1124366194}
+  - component: {fileID: 1124366197}
   m_Layer: 0
   m_Name: Plaque
   m_TagString: Untagged
@@ -76617,6 +76631,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1124366192}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1124366197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1124366192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeba15c54c90ba34680dc69c17fa95f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plaque
 --- !u!1 &1126537358
 GameObject:
   m_ObjectHideFlags: 0
@@ -122057,6 +122083,7 @@ GameObject:
   - component: {fileID: 1783391028}
   - component: {fileID: 1783391027}
   - component: {fileID: 1783391026}
+  - component: {fileID: 1783391029}
   m_Layer: 0
   m_Name: Plaque
   m_TagString: Untagged
@@ -122158,6 +122185,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1783391024}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1783391029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1783391024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeba15c54c90ba34680dc69c17fa95f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plaque
 --- !u!1 &1790031553
 GameObject:
   m_ObjectHideFlags: 0
@@ -125032,6 +125071,7 @@ GameObject:
   - component: {fileID: 1838603545}
   - component: {fileID: 1838603544}
   - component: {fileID: 1838603543}
+  - component: {fileID: 1838603546}
   m_Layer: 0
   m_Name: Plaque
   m_TagString: Untagged
@@ -125133,6 +125173,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1838603541}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1838603546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838603541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeba15c54c90ba34680dc69c17fa95f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plaque
 --- !u!1 &1839747324
 GameObject:
   m_ObjectHideFlags: 0
