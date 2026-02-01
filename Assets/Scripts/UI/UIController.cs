@@ -33,4 +33,8 @@ public class UIController : MonoBehaviour
         }
         open = !open;
     }
+
+    public void QuitGame() {
+        Application.Quit();
+    }
 }
