@@ -1,5 +1,7 @@
 using NUnit.Framework;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using static System.Runtime.CompilerServices.RuntimeHelpers;
 
 public class GameController : MonoBehaviour
 {
@@ -57,6 +59,19 @@ public class GameController : MonoBehaviour
             Debug.Log("Puzzle 4 is solved");
             PuzzleSolved();
             puzzle4Solved = true; //prevents this if constantly firing
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            puzzle1Solved = true;
+            puzzle2Solved = true;
+            puzzle3Solved = true;
+            puzzle4Solved = true;
+        }
+
+        if (puzzle1Solved && puzzle2Solved && puzzle3Solved && puzzle4Solved)
+        {
+            PaintingController.current.UnlockPaintings();
         }
     }
 

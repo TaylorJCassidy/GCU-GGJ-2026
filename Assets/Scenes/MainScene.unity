@@ -461,6 +461,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &448910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -885,6 +887,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &11384349
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1446,6 +1450,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &22936597
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1721,6 +1727,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &26401363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1956,6 +1964,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &29130562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2282,6 +2292,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &34183185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2720,6 +2732,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &44364087
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2955,6 +2969,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &44559516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3385,6 +3401,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &45683365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4070,6 +4088,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &52101462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4943,6 +4963,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &64973947
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5373,6 +5395,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &67810817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5921,6 +5945,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &76907535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6563,6 +6589,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &79764400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6792,6 +6820,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &86577408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7222,6 +7252,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &89050735
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7454,6 +7486,7 @@ GameObject:
   - component: {fileID: 90901517}
   - component: {fileID: 90901516}
   - component: {fileID: 90901515}
+  - component: {fileID: 90901519}
   m_Layer: 0
   m_Name: Frame 1
   m_TagString: Untagged
@@ -7489,6 +7522,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40d1f70ee51906c41be74a9ba5bd07c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  paintingPickup: {fileID: 8300000, guid: e606fed0a721f7546adafcffc39bd743, type: 3}
+  paintingPutdown: {fileID: 8300000, guid: c2f76a92f84065e46b3e2178d1c4f00e, type: 3}
 --- !u!64 &90901516
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7568,6 +7603,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90901513}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!82 &90901519
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90901513}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &90927522
 GameObject:
   m_ObjectHideFlags: 0
@@ -8080,6 +8212,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &101909078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8315,6 +8449,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &104359678
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8687,6 +8823,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &110649451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10092,6 +10230,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &136010970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10464,6 +10604,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &142191690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10790,6 +10932,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &143645042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12203,6 +12347,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &170631654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13654,6 +13800,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &209429115
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14131,6 +14279,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &217584021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14953,6 +15103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &249953773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15188,6 +15340,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &250039130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15423,6 +15577,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &251248289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16172,6 +16328,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &261881717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16937,6 +17095,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &278189522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17310,6 +17470,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &286154213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17910,6 +18072,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &292342177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18340,6 +18504,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &296545866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18615,6 +18781,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &298058714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18987,6 +19155,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &304214338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19417,6 +19587,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &311862081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19555,6 +19727,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &315577118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20122,6 +20296,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &318904269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20442,6 +20618,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &322762698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20677,6 +20855,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &329863366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21231,6 +21411,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &334828255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21557,6 +21739,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &336920722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22020,6 +22204,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &343201438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22483,6 +22669,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &344964527
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22964,6 +23152,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &348755856
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23746,6 +23936,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &368981347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23981,6 +24173,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &371446302
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24444,6 +24638,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &379911793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24679,6 +24875,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &382310264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25109,6 +25307,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &382609532
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25247,6 +25447,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &384941001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25664,6 +25866,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &390721137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25899,6 +26103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &391575943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26271,6 +26477,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &397762845
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26734,6 +26942,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &402250823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26969,6 +27179,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &402522312
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27311,6 +27523,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &405770801
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27774,6 +27988,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &411504609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28440,6 +28656,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &418483035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29829,6 +30047,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &435565166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30195,6 +30415,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &438753462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30602,6 +30824,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 442855489}
   m_CullTransparentMesh: 1
+--- !u!1 &443326234 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7365182498074824158, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
+  m_PrefabInstance: {fileID: 7621176369878153830}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &445468526
 GameObject:
   m_ObjectHideFlags: 0
@@ -30947,6 +31174,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &453371749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31182,6 +31411,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &453769727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31645,6 +31876,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &460280834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32609,6 +32842,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &475012612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34013,6 +34248,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &505806949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34796,6 +35033,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &523105608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35363,6 +35602,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &524973904
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35787,6 +36028,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &529059006
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36062,6 +36305,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &535237997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36297,6 +36542,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &539085749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37034,6 +37281,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &546632115
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37692,6 +37941,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &555338783
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38228,6 +38479,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &562937565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38566,6 +38819,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &564257550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39127,6 +39382,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &576434797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39721,6 +39978,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &591118729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40379,6 +40638,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &595707568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40712,6 +40973,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &598533808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41136,6 +41399,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &602566779
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41274,6 +41539,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &603003504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41509,6 +41776,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &603544536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41744,6 +42013,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &604030304
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41979,6 +42250,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &604991548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42670,6 +42943,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &622151890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42905,6 +43180,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &623766597
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43708,6 +43985,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &658472474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43900,6 +44179,7 @@ GameObject:
   - component: {fileID: 660953689}
   - component: {fileID: 660953688}
   - component: {fileID: 660953687}
+  - component: {fileID: 660953691}
   m_Layer: 0
   m_Name: Frame 3
   m_TagString: Untagged
@@ -43935,6 +44215,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40d1f70ee51906c41be74a9ba5bd07c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Frame
+  paintingPickup: {fileID: 8300000, guid: e606fed0a721f7546adafcffc39bd743, type: 3}
+  paintingPutdown: {fileID: 8300000, guid: c2f76a92f84065e46b3e2178d1c4f00e, type: 3}
 --- !u!64 &660953688
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -44014,6 +44296,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 660953685}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!82 &660953691
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660953685}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &662749556
 GameObject:
   m_ObjectHideFlags: 0
@@ -44070,6 +44449,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &662749559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44819,6 +45200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &672399692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45289,6 +45672,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &675567521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45513,12 +45898,109 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3879015849420697925, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
   m_PrefabInstance: {fileID: 7621176369878153830}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 443326234}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6082095791c09e741a0088761b54acb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!82 &677509225
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443326234}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &677754852
 GameObject:
   m_ObjectHideFlags: 0
@@ -45986,6 +46468,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &684828650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46495,6 +46979,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &695611008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47779,6 +48265,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &715658057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48402,6 +48890,7 @@ GameObject:
   - component: {fileID: 722943139}
   - component: {fileID: 722943138}
   - component: {fileID: 722943137}
+  - component: {fileID: 722943141}
   m_Layer: 0
   m_Name: Frame 2
   m_TagString: Untagged
@@ -48437,6 +48926,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40d1f70ee51906c41be74a9ba5bd07c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Frame
+  paintingPickup: {fileID: 8300000, guid: e606fed0a721f7546adafcffc39bd743, type: 3}
+  paintingPutdown: {fileID: 8300000, guid: c2f76a92f84065e46b3e2178d1c4f00e, type: 3}
 --- !u!64 &722943138
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -48516,6 +49007,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 722943135}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!82 &722943141
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722943135}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &724000372
 GameObject:
   m_ObjectHideFlags: 0
@@ -49164,6 +49752,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &737886883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49399,6 +49989,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &740531046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50181,6 +50773,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &746704287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50781,6 +51375,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &759307670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51153,6 +51749,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &761376834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51980,6 +52578,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &768843809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52534,6 +53134,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &779010918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53101,6 +53703,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &780988068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54151,6 +54755,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &813732524
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55035,6 +55641,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &828698448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55465,6 +56073,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &829111493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55831,6 +56441,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &833864024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56443,6 +57055,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &851474367
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56946,6 +57560,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &861522684
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57637,6 +58253,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &868205206
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57872,6 +58490,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &868531275
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58335,6 +58955,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &872314178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58765,6 +59387,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &873185263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59632,6 +60256,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &893120190
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60095,6 +60721,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &902091222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60421,6 +61049,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &908627354
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60838,6 +61468,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &913495267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61268,6 +61900,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &914556141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62318,6 +62952,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &937797756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63204,6 +63840,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &951625298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63765,6 +64403,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &960973922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64098,6 +64738,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &964253215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64431,6 +65073,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &964701218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64901,6 +65545,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &966453183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65513,6 +66159,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &974528401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65925,6 +66573,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &981607253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66629,6 +67279,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &985830019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66767,6 +67419,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &987699228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67002,6 +67656,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &987982104
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67939,6 +68595,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &994835580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68447,6 +69105,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1015758162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70745,6 +71405,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1064457120
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71254,6 +71916,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1071447958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71529,6 +72193,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1075187829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72326,6 +72992,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1087741921
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72561,6 +73229,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1090025756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73070,6 +73740,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1091814966
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73442,6 +74114,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1096275320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73677,6 +74351,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1099818811
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74186,6 +74862,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1103477528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74421,6 +75099,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1103688613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74838,6 +75518,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1107544754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75210,6 +75892,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1107771954
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75786,6 +76470,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1126781809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76163,6 +76849,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1130674792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76672,6 +77360,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1134663424
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77044,6 +77734,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1137616428
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77474,6 +78166,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1142989546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77612,6 +78306,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1145918528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78075,6 +78771,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1158358113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78596,6 +79294,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1161946541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79081,6 +79781,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1172316999
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79590,6 +80292,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1183004145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80778,6 +81482,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1199405273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81345,6 +82051,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1203932879
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82076,6 +82784,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1221741157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82597,6 +83307,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1225501304
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82930,6 +83642,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1229368105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83403,6 +84117,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1235868382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83638,6 +84354,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1238370421
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83873,6 +84591,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1238467512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84108,6 +84828,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1239074417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84571,6 +85293,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1252846324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84943,6 +85667,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1258375240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85464,6 +86190,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1263825856
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85602,6 +86330,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1264051924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85837,6 +86567,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1264858447
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -86209,6 +86941,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1267115062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -86763,6 +87497,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1276818282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87435,6 +88171,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1286111313
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87865,6 +88603,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1287687034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88003,6 +88743,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1288422881
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88433,6 +89175,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1289286656
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88571,6 +89315,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1292010203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89125,6 +89871,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1295305440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89497,6 +90245,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1296027220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89823,6 +90573,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1297263173
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -90591,6 +91343,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1309874199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -90826,6 +91580,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1315997123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91384,6 +92140,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1335546568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -92604,6 +93362,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1360489502
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93295,6 +94055,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1367648654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93700,6 +94462,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1373060866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93935,6 +94699,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1373638504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94261,6 +95027,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1376629092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94861,6 +95629,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1395227034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -95780,6 +96550,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1409371684
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -96772,6 +97544,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1429958118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97007,6 +97781,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1430935705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97242,6 +98018,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1432289794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97477,6 +98255,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1432381333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97712,6 +98492,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1434613271
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97947,6 +98729,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1435320876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98182,6 +98966,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1439251389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98599,6 +99385,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1448611619
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99334,6 +100122,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1461101057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99706,6 +100496,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1470475324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99941,6 +100733,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1471820430
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100313,6 +101107,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1482945769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100685,6 +101481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1490775714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101422,6 +102220,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1510361377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102171,6 +102971,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1517104392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -103385,6 +104187,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1546647042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -103848,6 +104652,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1554425248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104356,6 +105162,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1560770824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105138,6 +105946,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1568118436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106526,6 +107336,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1590997063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106801,6 +107613,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1592674757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107459,6 +108273,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1599347890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107923,6 +108739,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1603765885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108158,6 +108976,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1604600046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108854,6 +109674,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1614554806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109284,6 +110106,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1615331815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109422,6 +110246,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1616635928
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109729,6 +110555,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1621073074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110192,6 +111020,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1627516828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110609,6 +111439,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1633383495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111300,6 +112132,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1638115342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111626,6 +112460,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1643681147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111861,6 +112697,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1646857716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112096,6 +112934,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1646942095
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112559,6 +113399,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1653309170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113286,6 +114128,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1663876463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113612,6 +114456,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1669097264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113984,6 +114830,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1672943251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -114356,6 +115204,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1677584585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115276,6 +116126,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1696548084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115706,6 +116558,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1700045079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115844,6 +116698,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1703627553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116216,6 +117072,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1704929257
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116451,6 +117309,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1717716890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117458,6 +118318,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1727485067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117626,6 +118488,7 @@ GameObject:
   - component: {fileID: 1729362155}
   - component: {fileID: 1729362154}
   - component: {fileID: 1729362153}
+  - component: {fileID: 1729362157}
   m_Layer: 0
   m_Name: Frame 4
   m_TagString: Untagged
@@ -117661,6 +118524,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40d1f70ee51906c41be74a9ba5bd07c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Frame
+  paintingPickup: {fileID: 8300000, guid: e606fed0a721f7546adafcffc39bd743, type: 3}
+  paintingPutdown: {fileID: 8300000, guid: c2f76a92f84065e46b3e2178d1c4f00e, type: 3}
 --- !u!64 &1729362154
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -117740,6 +118605,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1729362151}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!82 &1729362157
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1729362151}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1732366277
 GameObject:
   m_ObjectHideFlags: 0
@@ -118024,6 +118986,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1742411128
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118259,6 +119223,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1743371581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118539,6 +119505,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1747730108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119048,6 +120016,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1753232569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119283,6 +120253,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1759383637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119655,6 +120627,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1766687002
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119981,6 +120955,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1769189703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -120753,6 +121729,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1790031556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -120988,6 +121966,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1791279748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122239,6 +123219,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1814081500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122468,6 +123450,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1824872627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122794,6 +123778,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1827724259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -123855,6 +124841,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1841017884
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124227,6 +125215,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1846730483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124599,6 +125589,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1851160844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -125199,6 +126191,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1866046462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -125434,6 +126428,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1868128380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -125760,6 +126756,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1873772888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126327,6 +127325,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1878823253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126693,6 +127693,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1889603579
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126928,6 +127930,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1890234490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127163,6 +128167,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1893927941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127398,6 +128404,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1894060432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127724,6 +128732,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1894744632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127959,6 +128969,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1895697720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128513,6 +129525,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1905200402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128940,6 +129954,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1929634521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -129322,6 +130338,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1940192512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -129752,6 +130770,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1940855544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -130269,6 +131289,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1948555679
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -130699,6 +131721,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1949396750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -131919,6 +132943,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1967519716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132721,6 +133747,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1971701536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133379,6 +134407,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1977888772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133894,6 +134924,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1984667015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134560,6 +135592,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &1998102553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134932,6 +135966,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2002088731
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135486,6 +136522,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2010827711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135812,6 +136850,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2011936393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136159,6 +137199,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2014417276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136485,6 +137527,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2015673186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137039,6 +138083,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2032217336
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137274,6 +138320,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2032602412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137737,6 +138785,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2034352984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -138063,6 +139113,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2036730007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -138936,6 +139988,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2052434010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -139353,6 +140407,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2065503842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -139730,6 +140786,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2068254668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -140238,6 +141296,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2074224522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141112,6 +142172,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2097206043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141347,6 +142409,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2098015470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141582,6 +142646,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2099111411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141954,6 +143020,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2100309203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142326,6 +143394,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2105584706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143381,6 +144451,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2127266077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143811,6 +144883,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2128224557
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -144633,6 +145707,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TextSelect
   puzzleController: {fileID: 0}
   buttonSelect: {fileID: 8300000, guid: 2e31ae1f03ca1594bb61de91bc2bea66, type: 3}
+  tapeOn: {fileID: 0}
+  tapeOff: {fileID: 0}
 --- !u!114 &2143997252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -144825,6 +145901,10 @@ PrefabInstance:
       value: Door
       objectReference: {fileID: 0}
     - target: {fileID: 3879015849420697925, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
+      propertyPath: doorOpen
+      value: 
+      objectReference: {fileID: 8300000, guid: 86f3b86161cc3c84d90a73b20ef18603, type: 3}
+    - target: {fileID: 3879015849420697925, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
       propertyPath: curveMultiplier
       value: 43
       objectReference: {fileID: 0}
@@ -144911,7 +145991,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7365182498074824158, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 677509225}
   m_SourcePrefab: {fileID: 100100000, guid: 42638591f8dd80b40b28e3ec7d648ede, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

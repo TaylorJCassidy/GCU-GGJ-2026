@@ -8,6 +8,14 @@ public class Door : MonoBehaviour
 
     public AnimationCurve animationCurve;
 
+    private AudioSource audioSource;
+    [SerializeField] private AudioClip doorOpen;
+
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -20,6 +28,8 @@ public class Door : MonoBehaviour
     }
 
     public void OpenDoor() {
+        audioSource.clip = doorOpen;
+        audioSource.Play();
         opening = true;
     }
 }

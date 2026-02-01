@@ -5,11 +5,17 @@ public class Frame : MonoBehaviour
     private Painting currentPainting;
     private int position;
 
+    private AudioSource audioSource;
+    [SerializeField] private AudioClip paintingPickup;
+    [SerializeField] private AudioClip paintingPutdown;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         currentPainting = transform.GetComponentInChildren<Painting>();
         position = currentPainting.currentPosition;
+
+        audioSource = GetComponent<AudioSource>();
     }
 
     void OnMouseOver()
@@ -18,6 +24,9 @@ public class Frame : MonoBehaviour
         {
             if (currentPainting != null) {
                 if (currentPainting.locked) return;
+                audioSource.clip = paintingPickup;
+                audioSource.pitch = Random.Range(0.8f, 1.2f);
+                audioSource.Play();
                 if (PlayerController.current.currentPainting == null) {
                     PlayerController.current.SetCurrentPainting(currentPainting);
                     SetCurrentPainting(null);
@@ -30,6 +39,9 @@ public class Frame : MonoBehaviour
             }
             else {
                 if (PlayerController.current.currentPainting != null) {
+                    audioSource.clip = paintingPutdown;
+                    audioSource.pitch = Random.Range(0.8f, 1.2f);
+                    audioSource.Play();
                     SetCurrentPainting(PlayerController.current.currentPainting);
                     PlayerController.current.SetCurrentPainting(null);
                 }

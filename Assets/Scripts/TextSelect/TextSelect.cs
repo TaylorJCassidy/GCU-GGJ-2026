@@ -19,6 +19,8 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
 
     private AudioSource audioSource;
     [SerializeField] private AudioClip buttonSelect;
+    [SerializeField] private AudioClip tapeOn;
+    [SerializeField] private AudioClip tapeOff;
     private int buttonCounter;
     private double buttonPitch;
 
@@ -27,6 +29,7 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     {
         puzzleController = transform.parent.GetChild(0).GetComponent<PuzzleController>();
         audioSource = GetComponent<AudioSource>();
+        audioSource.volume = 0.15f;
         buttonPitch = 0.7f * UnityEngine.Random.Range(0.9f, 1.1f);
         audioSource.pitch = (float)buttonPitch;
     }
@@ -65,7 +68,6 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
             buttonCounter++;
             audioSource.clip = buttonSelect;
             audioSource.pitch *= (float)Math.Pow(1.059463f, buttonCounter);
-            audioSource.volume = 0.15f;
             audioSource.Play();
             if (counter == 0)
             {
@@ -115,7 +117,19 @@ public class TextSelect : MonoBehaviour, IPointerClickHandler
     {
         //right click adds/removes tape
         transform.GetChild(1).gameObject.SetActive(!tape);
-        tape = !tape;
+        if (tape == false)
+        {
+            audioSource.clip = tapeOn;
+            audioSource.pitch = UnityEngine.Random.Range(0.8f, 1.2f);           
+            audioSource.Play();
+        }
+        else if (tape == true)
+        {
+            audioSource.clip = tapeOff;
+            audioSource.pitch = UnityEngine.Random.Range(0.6f, 1.2f);
+            audioSource.Play();
+        }
+            tape = !tape;
     }
 
     //for changing text on the button
