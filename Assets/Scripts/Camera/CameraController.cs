@@ -8,7 +8,15 @@ public class CameraController : MonoBehaviour
     public float rotationSpeed = 100f;
     float currentPitch = 0f;
     
-    public bool cameraLocked;
+    private bool locked;
+    public bool cameraLocked {
+        set {
+            locked = value;
+            if (locked) Cursor.lockState = CursorLockMode.Confined;
+            else Cursor.lockState = CursorLockMode.Locked;
+        }
+        get => locked;
+    }
 
     private Camera camera;
 
