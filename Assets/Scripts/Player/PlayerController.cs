@@ -12,12 +12,18 @@ public class PlayerController : MonoBehaviour
         current = this;
     }
 
+    void Update() {
+        if (Input.GetKeyDown(KeyCode.Escape)) 
+        {
+            UIController.current.ToggleMenu();
+        }
+    }
+
     public void SetCurrentPainting(Painting painting) {
         currentPainting = painting;
         if (currentPainting != null) {
             currentPainting.transform.parent = transform;
-            currentPainting.transform.localPosition = new Vector3(0.5f, -0.35f, 1f);
-            currentPainting.transform.localRotation = Quaternion.Euler(-90f, 15f, 15f);
+            currentPainting.transform.SetLocalPositionAndRotation(new Vector3(0.35f, -0.35f, 0.5f), Quaternion.Euler(90f, 210f, 15f));
         }
     }
 }

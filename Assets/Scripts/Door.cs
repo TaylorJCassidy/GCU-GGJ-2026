@@ -11,9 +11,9 @@ public class Door : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (opening == true) {
+        if (opening) {
             time += Time.deltaTime;
-            float rotationSpeed = animationCurve.Evaluate(time) * curveMultiplier;
+            float rotationSpeed = animationCurve.Evaluate(time) * curveMultiplier * Time.deltaTime;
             transform.Rotate(new Vector3(0f, -rotationSpeed, 0f));
             if (time > 4f) opening = false;
         }

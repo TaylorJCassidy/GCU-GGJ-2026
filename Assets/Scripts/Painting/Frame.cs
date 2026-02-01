@@ -42,8 +42,7 @@ public class Frame : MonoBehaviour
         currentPainting = painting;
         if (currentPainting != null) {
             currentPainting.transform.parent = transform;
-            currentPainting.transform.localPosition = new Vector3(0f, 0.1f, 0f);
-            currentPainting.transform.localRotation = Quaternion.Euler(0f, 0f, 0f);
+            currentPainting.transform.SetLocalPositionAndRotation(new Vector3(0f, 0.1f, 0f), Quaternion.Euler(0f, 0f, 0f));
             currentPainting.currentPosition = position;
             PaintingController.current.CheckPaintingOrder();    
         }
